@@ -29,8 +29,4 @@
 |`# Here's a Heading`|`#Here's a Heading`|
 
 
-<style>
-center {
-    text-align:center;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="resource/main.css">
